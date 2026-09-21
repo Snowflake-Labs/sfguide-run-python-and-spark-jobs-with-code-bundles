@@ -1,0 +1,8 @@
+[project]
+name = "code-bundles-quickstart"
+version = "0.1.0"
+description = "Companion project for the Run Python and Spark Jobs with Code Bundles Quickstart"
+requires-python = ">=3.11"
+dependencies = [
+    "snowflake-snowpark-python",
+]
